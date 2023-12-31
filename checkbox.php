@@ -60,17 +60,21 @@
         border-radius: 1em;
         border: solid 1px var(--border);
         transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s;
+        
+        align-self: center;
         }
 
         .form-check label::after {
         position: relative;
         left: 2px;
-        top: 2px;
+        top: 0px;
         width: calc(1em - 2px);
         height: calc(1em - 2px);
         border-radius: 50%;
         background-color: var(--cursor);
         transition: background-color 0.3s, transform 0.3s;
+
+        align-self: center;
         }
 
         .form-check input:checked + label::before {
@@ -99,7 +103,8 @@
         <div class="form-check">
             <input type="checkbox" id="cgv" name="cgv">
             <label for="cgv">
-                J'accepte les conditions générales de vente
+                J'accepte les conditions générales de vente <br>
+                aqui le lien de confidelité 
             </label>
         </div>
     </div>

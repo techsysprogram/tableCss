@@ -22,6 +22,10 @@
             border-radius: 5px 5px 0 0;
             overflow: hidden;
             box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+
+            /* esto es para dar un borde de pagine muy bueno
+            border-bottom-right-radius: 50px;
+            */
         }
 
         .content-table thead tr {
@@ -49,8 +53,9 @@
         }
 
         .content-table tbody tr.active-row {
-            font-weight: bold;
-            color: #009879;
+            /*font-weight: bold; commentaire*/
+            color: #e9f1f0;
+            background-color: #009879;
         }
 
     </style>
