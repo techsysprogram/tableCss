@@ -18,7 +18,10 @@
             border-collapse: collapse;
             margin: 25px 0;
             font-size: 0.9em;
-            min-width: 400px;
+            min-width: 300px;
+            
+            max-width: 800px;
+
             border-radius: 5px 5px 0 0;
             overflow: hidden;
             box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
