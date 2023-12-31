@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Table model 01</title>
+    <title>Table 01</title>
     
     <!--los styles lo pongo aqui porque sinon tendre que ponerlo en los styles aditionales de wordpress o n la carpeta style de de css -->
     
@@ -25,7 +25,7 @@
         }
 
         .content-table thead tr {
-            background-color: #009879;
+            background-color: #460fdb;
             color: #ffffff;
             text-align: left;
             font-weight: bold;
@@ -83,6 +83,12 @@
             <tr>
                 <td>3</td>
                 <td>Nick</td>
+                <td>52,300</td>
+                <td>dcode</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Nickooo</td>
                 <td>52,300</td>
                 <td>dcode</td>
             </tr>
