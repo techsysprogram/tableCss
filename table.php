@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Form checkbox</title>
+    <title>Table model 01</title>
     
     <!--los styles lo pongo aqui porque sinon tendre que ponerlo en los styles aditionales de wordpress o n la carpeta style de de css -->
     
